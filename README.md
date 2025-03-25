@@ -1,13 +1,13 @@
 # Olá, meu nome é [Luiz Germano] 👋
 
 - 📧 E-mail de contato: [mgermano578@gmail.com]
--  📍  Localização [Ipu - Ceará]
-- 🎓 [Sistemas de Informação] - [Universidade Federal do Ceará de Crateús]
-- 💻 [Técnico em Informática]
+-  📍 Ipu - Ceará
+- 🎓 Sistemas de Informação - Universidade Federal do Ceará de Crateús
+- 💻 Técnico em Informática
 
 ## 📌 Demais Informações
-- 🎮 [Interessado por Anime, Programação, Fotos e Jogos]
-- 🕹️ Jogando: [World of Tanks: Blitz]
+- 🎮 Interessado por Anime, Programação, Fotos e Jogos
+- 🕹️ Jogando: World of Tanks: Blitz
 
 ## 📊 GitHub Stats
 
