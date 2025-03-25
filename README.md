@@ -1,7 +1,7 @@
 # Olá, meu nome é [Luiz Germano] 👋
 
 - 📧 E-mail de contato: [mgermano578@gmail.com]
-- 📍  Localização [Ipu - Ceará]
+-  📍  Localização [Ipu - Ceará]
 - 🎓 [Sistemas de Informação] - [Universidade Federal do Ceará de Crateús]
 - 💻 [Técnico em Informática]
 
@@ -16,10 +16,8 @@
 
 ## 🔧 Ferramentas mais usadas
 ![Figma](https://img.shields.io/badge/-Figma-E34F26?style=flat&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/https%3A%2F%2Fcode.visualstudio.com%2F)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fcode.visualstudio.com%2F)
 
 ## 🖥️ Linguagens Usadas em Projetos
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -33,4 +31,3 @@
 ## 🌎 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lumano14/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-germano/)
-[![Medibang](https://img.shields.io/badge/https%3A%2F%2Fmedibang.com%2F)](https://medibang.com/u/lumanoarts/)
