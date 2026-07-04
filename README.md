@@ -7,7 +7,7 @@
 
 ## 📌 Demais Informações
 - 🎮 Interessado por Anime, Programação, Fotos e Jogos
-- 🕹️ Jogando: World of Tanks: Blitz
+- 🕹️ Jogando: World of Tanks: Blitz e Xadrez
 
 ## 📊 GitHub Stats
 
